@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headingstyle{
+    background-color: purple;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+.card{
+    background: #ffda77;
+    box-shadow: 2px 4px 4px gray;
+    border-radius:5px;
+    margin: 10px;
+    width: 390px;
+    display: inline-block;
+}
+.cardtitle {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.date{
+    text-align: center;
+    font-weight: bold;
+}
